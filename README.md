@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PavanKumarNaik936
 - 👀 I’m interested in tech
-- 🌱 I’m currently learning DSA 
+- 🌱 I have a decent knowledge of React
 - 💞️ I’m looking to collaborate on WEB DEVELOPMENT
 - 📫 How to reach me ...you can reach me through my mailid : pavankumar1908naik@gmail.com
 
